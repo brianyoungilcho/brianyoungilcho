@@ -53,5 +53,3 @@ I write about building products, AI prototyping patterns, and lessons from two e
 - 📧 brianyoungilcho@gmail.com
 
 ---
-
-*Notre Dame '16 | Applied Math & Finance | ROK Army Veteran*
