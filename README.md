@@ -6,7 +6,7 @@
 
 🔊 **Senior PM at [Flock Safety](https://www.flocksafety.com/)** — Driving a 8-figure product turnaround, evolving a single-purpose gunshot detector into a scalable Acoustic Intelligence Platform.
 
-🐕 **[Pupsday.com](https://pupsday.com)** — Solo-built dog subscription e-commerce platform. Custom quiz-driven personalization that Shopify couldn't support. Profitable at $1K+ MRR with 30% margins.
+🐕 **[Pupsday.com](https://pupsday.com)** — Solo-built dog subscription e-commerce platform. Custom quiz-driven personalization that Shopify couldn't support. Profitable and growing at ~15% MoM.
 
 🤖 **[whynow.ai](https://whynow.ai)** — AI tools I'm building and experimenting with.
 
