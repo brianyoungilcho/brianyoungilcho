@@ -49,7 +49,6 @@ I write about building products, AI prototyping patterns, and lessons from two e
 ## Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/bcho)
-- 🌐 [whynow.ai](https://whynow.ai)
 - 📧 brianyoungilcho@gmail.com
 
 ---
