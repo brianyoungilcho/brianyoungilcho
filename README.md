@@ -8,7 +8,7 @@
 
 🐕 **[Pupsday.com](https://pupsday.com)** — Solo-built dog subscription e-commerce platform. Custom quiz-driven personalization that Shopify couldn't support. Profitable and growing at ~15% MoM.
 
-🤖 **[whynow.ai](https://whynow.ai)** — AI tools I'm building and experimenting with.
+🤖 **[Riplacer](https://riplacer.com)** — AI tools I'm building and experimenting with.
 
 ## Background
 
