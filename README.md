@@ -1,54 +1,73 @@
 # Hey, I'm Brian 👋
 
-**2x technical founder** who turns research into revenue. I prototype with Claude, ship full-stack systems from scratch, and translate nascent ideas into category-defining products.
+Third-time founder. I’m building [**BARO**](https://heybaro.com) — your **US operating team** for brands launching in the United States: the GM layer *and* the integrated stack underneath it (entity, payments, tax, commerce, growth, fulfillment, and the “boring” compliance work that actually matters).
 
-## What I'm Working On
+I like turning research into revenue, the messy parts of going 0→1, and shipping fast with small teams.
 
-🔊 **Senior PM at [Flock Safety](https://www.flocksafety.com/)** — Driving a 8-figure product turnaround, evolving a single-purpose gunshot detector into a scalable Acoustic Intelligence Platform.
+---
 
-🐕 **[Pupsday.com](https://pupsday.com)** — Solo-built dog subscription e-commerce platform. Custom quiz-driven personalization that Shopify couldn't support. Profitable and growing at ~15% MoM.
+## What I'm working on now
 
-🤖 **[Riplacer](https://riplacer.com)** — AI tools I'm building and experimenting with.
+**🇺🇸 [BARO](https://heybaro.com)** — *Founder & CEO*  
+US market expansion for consumer brands. Practically: incorporation + banking setup, payment infrastructure (including Merchant-of-Record patterns where appropriate), multi-state sales tax, DTC commerce operations, paid media execution, 3PL/returns, and the regulatory edges (ex. FDA/MoCRA) when your category needs them — without you hiring a full US ops team on day one.
+
+If you’re building a brand outside the US, think of BARO as the **operating backbone** that gets you to real US revenue with fewer vendors, fewer handoffs, and fewer sharp edges.
+
+*(We’re starting with the brands we know best—often Korea / Asia-origin brands with traction at home—but the playbook is built for cross-border consumer brands more broadly.)*
+
+**🐶 [Pupsday](https://pupsday.com)** — *Founder*  
+Direct-to-consumer dog brand — functional products for everyday dog people. Also the place we stress-test a lot of what we build for BARO in the real world.
+
+---
 
 ## Background
 
-Before this, I co-founded two companies:
+A loose timeline of the companies and roles that got me here:
 
-**Resonado Labs** (2016-2022) — Deep-tech audio R&D startup. Co-invented novel transducer architecture from first-principles physics research. Partnered with Hyundai, VOXX, and U.S. Army Special Operations. Exited to LCI Industries (NYSE: LCII).
-- 🔬 5 U.S. utility patents
-- 💰 $7M+ raised (Seed/Series A)
-- 🏭 Full commercialization: HQ R&D → China factory integration → mass production
-
-**Jobtest.org** (2022-2025) — B2C career marketplace. Built from zero to $5M ARR. Early LLM adopter — implemented vector-matching algorithms to ground GPT recommendations in real job data, reducing hallucinations and increasing LTV by 20%.
-
-## How I Build
-
-I ship fast by combining AI tools with product intuition:
-
-| Tool | Use Case |
-|------|----------|
-| Claude (Opus/Sonnet) | Architecture decisions, code generation, debugging |
-| Lovable | Rapid UI prototyping |
-| Supabase | Backend, auth, real-time, edge functions |
-| Cursor | AI-augmented development |
-
-## Technical Interests
-
-- **LLM Grounding** — Making AI outputs reliable by anchoring them in real data
-- **Geospatial AI** — Current gap: LLMs struggle with spatial reasoning for city-scale deployments
-- **Hardware-Software Integration** — Translating physics research into shippable products
-- **0-to-1 Product Development** — Finding PMF in ambiguous spaces
-
-## Writing & Thinking
-
-I write about building products, AI prototyping patterns, and lessons from two exits:
-
-- 📝 [Technical Writing](https://github.com/brianyoungilcho/technical-writing) — Essays on product, AI, and building companies
-- 🛠️ [AI Prototyping Patterns](https://github.com/brianyoungilcho/ai-prototyping-patterns) — My workflow for shipping with Claude, Lovable, and Supabase
-
-## Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/bcho)
-- 📧 brianyoungilcho@gmail.com
+- **BARO** *(2025 → now)* — Founder & CEO. US go-to-market + operating stack for cross-border brands.
+- **Flock Safety** *(2024 → 2025)* — Senior PM. Public-safety tech at scale; learned what 0→1 looks like inside a fast-growing company.
+- **[Jobtest.org](https://jobtest.org)** *(2021 → 2024)* — Co-founder. Career assessment / hiring signal. Grew it from a research project into a self-sustaining business.
+- **[Resonado Labs](https://resonadolabs.com)** *(2018 → 2021)* — Co-founder. Hardware/audio startup spun out of university research; took flat-panel speaker tech from prototype to commercial deployments.
 
 ---
+
+## How I build
+
+| Tool | What I use it for |
+|---|---|
+| **[Claude](https://claude.ai)** | Long-form reasoning, drafting, code review, second-brain work |
+| **[Cursor](https://cursor.com)** | Day-to-day editor + repo navigation; how most code actually ships |
+| **Codex** | Fast implementation passes, refactors, and multi-file changes inside real repos |
+| **[Vercel](https://vercel.com)** | Hosting, previews, production deployments, and the “make it real on the internet” layer |
+| **[Supabase](https://supabase.com)** | Auth, Postgres, RLS-shaped backends when a managed data plane beats bespoke |
+| **[GitHub](https://github.com)** | Source of truth, collaboration, reviews, and light automation |
+
+Same pattern everywhere: **assemble sharp primitives**, keep contracts explicit, and **ship loops** instead of boiling the ocean.
+
+---
+
+## Things I think about a lot
+
+- **0→1 in regulated “boring” markets** — compliance, payments, tax, ops: the unglamorous places where moats quietly accrue  
+- **LLM grounding & evals** — making AI useful for narrow, high-stakes work (not demos)  
+- **Hardware × software** — physical products with intelligent backends  
+- **Cross-border commerce** — what it actually takes for a brand built in one country to win in another  
+
+---
+
+## Writing
+
+- [**Technical Writing**](https://github.com/brianyoungilcho/technical-writing) — essays and notes on product, AI, and building companies *(README index updated periodically; start there)*  
+- [**AI Prototyping Patterns**](https://github.com/brianyoungilcho/ai-prototyping-patterns) — how I actually ship: Claude, Cursor, Codex, Vercel, Supabase *(practical patterns over hype)*  
+
+If you maintain other public writing (Substack, personal site, talks), add a third bullet here so GitHub becomes the **router**, not the archive.
+
+---
+
+## Get in touch
+
+- 🌐 [heybaro.com](https://heybaro.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bcho)  
+- ✉️ brian@heybaro.com  
+
+If you’re a founder thinking about the US market, an investor looking at cross-border commerce, or someone building 0→1 in a serious space — say hi.
