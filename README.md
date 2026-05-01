@@ -49,9 +49,10 @@ Same pattern everywhere: **assemble sharp primitives**, keep contracts explicit,
 ## Things I think about a lot
 
 - **0→1 in regulated “boring” markets** — compliance, payments, tax, ops: the unglamorous places where moats quietly accrue  
-- **LLM grounding & evals** — making AI useful for narrow, high-stakes work (not demos)  
+- **LLM grounding & evals** — making AI useful for narrow, high-stakes work (not demos); see [grounding with real data](https://github.com/brianyoungilcho/technical-writing/blob/main/essays/grounding-llm-outputs.md)  
 - **Hardware × software** — physical products with intelligent backends  
 - **Cross-border commerce** — what it actually takes for a brand built in one country to win in another  
+- **Geospatial + LLMs** — where models still break down; [notes](https://github.com/brianyoungilcho/technical-writing/blob/main/essays/llms-geospatial-reasoning.md)
 
 ---
 
