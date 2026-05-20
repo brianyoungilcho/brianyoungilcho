@@ -37,7 +37,6 @@ A loose timeline of the companies and roles that got me here:
 | **[Codex](https://openai.com/codex/)** | Fast implementation passes, refactors, and multi-file changes inside real repos |
 | **[Vercel](https://vercel.com)** | Hosting, previews, production deployments, and the “make it real on the internet” layer |
 | **[Supabase](https://supabase.com)** | Auth, Postgres, RLS-shaped backends when a managed data plane beats bespoke |
-| **[GitHub](https://github.com)** | Source of truth, collaboration, reviews, and light automation |
 
 Same pattern everywhere: **assemble sharp primitives**, keep contracts explicit, and **ship loops** instead of boiling the ocean.
 
@@ -50,16 +49,6 @@ Same pattern everywhere: **assemble sharp primitives**, keep contracts explicit,
 - **Hardware × software** — physical products with intelligent backends  
 - **Cross-border commerce** — what it actually takes for a brand built in one country to win in another  
 - **Geospatial + LLMs** — where models still break down; [notes](https://github.com/brianyoungilcho/technical-writing/blob/main/essays/llms-geospatial-reasoning.md)
-
----
-
-## Writing
-
-- [**Technical Writing**](https://github.com/brianyoungilcho/technical-writing) — essays and notes on product, AI, and building companies *(README index updated periodically; start there)*  
-- [**AI Prototyping Patterns**](https://github.com/brianyoungilcho/ai-prototyping-patterns) — how I actually ship: Claude, Cursor, Codex, Vercel, Supabase *(practical patterns over hype)*  
-- [**whynow.ai**](https://whynow.ai) — longer-form pieces and newsletter-style writing  
-
-For anything not on GitHub, this list is the fastest index.
 
 ---
 
