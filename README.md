@@ -15,9 +15,6 @@ If you’re building a brand outside the US, think of BARO as the **operating ba
 
 *(We’re starting with the brands we know best—often Korea / Asia-origin brands with traction at home—but the playbook is built for cross-border consumer brands more broadly.)*
 
-**🐶 [Pupsday](https://pupsday.com)** — *Founder*  
-Direct-to-consumer dog brand — functional products for everyday dog people. Also the place we stress-test a lot of what we build for BARO in the real world.
-
 ---
 
 ## Background
