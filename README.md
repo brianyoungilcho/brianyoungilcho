@@ -2,7 +2,7 @@
 
 Third-time founder. I’m building [**BARO**](https://heybaro.com) — your **US operating team** for brands launching in the United States: the GM layer *and* the integrated stack underneath it (entity, payments, tax, commerce, growth, fulfillment, and the “boring” compliance work that actually matters).
 
-I like turning research into revenue, the messy parts of going 0→1, and shipping fast with small teams.
+I like the messy parts of going 0→1 and shipping fast with small teams.
 
 ---
 
@@ -14,6 +14,9 @@ US market expansion for consumer brands. Practically: incorporation + banking se
 If you’re building a brand outside the US, think of BARO as the **operating backbone** that gets you to real US revenue with fewer vendors, fewer handoffs, and fewer sharp edges.
 
 *(We’re starting with the brands we know best—often Korea / Asia-origin brands with traction at home—but the playbook is built for cross-border consumer brands more broadly.)*
+
+**🛠 [claude-dash](https://github.com/brianyoungilcho/claude-dash)** — *open source*  
+A native macOS menu-bar dashboard for Claude usage across multiple accounts: session / weekly / per-model limits with reset timers, and one-click switching into the right browser profile.
 
 ---
 
@@ -38,7 +41,7 @@ A loose timeline of the companies and roles that got me here:
 | **[Vercel](https://vercel.com)** | Hosting, previews, production deployments, and the “make it real on the internet” layer |
 | **[Supabase](https://supabase.com)** | Auth, Postgres, RLS-shaped backends when a managed data plane beats bespoke |
 
-Same pattern everywhere: **assemble sharp primitives**, keep contracts explicit, and **ship loops** instead of boiling the ocean.
+Proof in public: [**claude-dash**](https://github.com/brianyoungilcho/claude-dash) was built end-to-end with this stack.
 
 ---
 
@@ -48,7 +51,6 @@ Same pattern everywhere: **assemble sharp primitives**, keep contracts explicit,
 - **LLM grounding & evals** — making AI useful for narrow, high-stakes work (not demos); see [grounding with real data](https://github.com/brianyoungilcho/technical-writing/blob/main/essays/grounding-llm-outputs.md)  
 - **Hardware × software** — physical products with intelligent backends  
 - **Cross-border commerce** — what it actually takes for a brand built in one country to win in another  
-- **Geospatial + LLMs** — where models still break down; [notes](https://github.com/brianyoungilcho/technical-writing/blob/main/essays/llms-geospatial-reasoning.md)
 
 ---
 
