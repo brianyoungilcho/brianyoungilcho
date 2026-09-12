@@ -1,63 +1,41 @@
-# Hey, I'm Brian 👋
+# Brian Cho · 조영일
 
-Third-time founder. I’m building [**BARO**](https://heybaro.com) — your **US operating team** for brands launching in the United States: the GM layer *and* the integrated stack underneath it (entity, payments, tax, commerce, growth, fulfillment, and the “boring” compliance work that actually matters).
+**I build companies and the software that runs them.**
 
-I like the messy parts of going 0→1 and shipping fast with small teams.
+I'm a third-time founder and CEO of [BARO](https://heybaro.com), the AI general manager for consumer brands. Backed by [a16z speedrun (SR007)](https://speedrun.a16z.com/companies/baro).
 
----
+[LinkedIn](https://www.linkedin.com/in/bcho) · [X](https://x.com/brianyoungilcho) · [Email](mailto:brian@heybaro.com)
 
-## What I'm working on now
+## Building BARO
 
-**🇺🇸 [BARO](https://heybaro.com)** ([GitHub](https://github.com/heybaro)) — *Founder & CEO*  
-US market expansion for consumer brands. Practically: incorporation + banking setup, payment infrastructure (including [Merchant of Record](https://stripe.com/resources/more/what-is-a-merchant-of-record) patterns where appropriate), multi-state sales tax, DTC commerce operations, paid media execution, 3PL/returns, and the regulatory edges (ex. [FDA cosmetics / MoCRA](https://www.fda.gov/cosmetics) where relevant) when your category needs them — without you hiring a full US ops team on day one.
+Brands can buy software, hire agencies, and outsource fulfillment—and still have to run the whole business themselves. The founder is still the operating system.
 
-If you’re building a brand outside the US, think of BARO as the **operating backbone** that gets you to real US revenue with fewer vendors, fewer handoffs, and fewer sharp edges.
+We're building a general manager that understands the business, recommends the next move, and gets the work done through the right tools and partners.
 
-*(We’re starting with the brands we know best—often Korea / Asia-origin brands with traction at home—but the playbook is built for cross-border consumer brands more broadly.)*
+**The founder decides. BARO executes.**
 
-**🛠 [claude-dash](https://github.com/brianyoungilcho/claude-dash)** — *open source*  
-A native macOS menu-bar dashboard for Claude usage across multiple accounts: session / weekly / per-model limits with reset timers, and one-click switching into the right browser profile.
+## Projects
 
----
+**[Claude Dash](https://github.com/brianyoungilcho/claude-dash)** — A native macOS menu-bar app for tracking Claude usage across accounts, monitoring limits, and opening the right browser profile. Built with Swift and SwiftUI.
 
-## Background
+**[Squat Coach](https://github.com/brianyoungilcho/squat-coach)** — A macOS movement-break coach that counts squats on-device with Apple Vision. Camera frames stay on your Mac.
 
-A loose timeline of the companies and roles that got me here:
+**[AI Prototyping Patterns](https://github.com/brianyoungilcho/ai-prototyping-patterns)** — Notes on architecture, code generation, debugging, schemas, and recommendation flows for small teams building with AI.
 
-- **BARO** *(2025 → now)* — Founder & CEO. US go-to-market + operating stack for cross-border brands.
-- **[Flock Safety](https://www.flocksafety.com/)** *(2025 → 2026)* — Senior PM. Public-safety tech at scale; learned what 0→1 looks like inside a fast-growing company.
-- **[Jobtest.org](https://jobtest.org)** *(2022 → 2024)* — Co-founder. Career assessment / hiring signal. Grew it from a research project into a self-sustaining business.
-- **[Resonado Labs](https://resonadolabs.com)** *(2019 → 2022)* — Co-founder. Hardware/audio startup spun out of university research; took flat-panel speaker tech from prototype to commercial deployments.
+## Before BARO
 
----
+- **Jobtest.org** — Co-founded and scaled to a **$5M annual revenue run rate in 18 months**.
+- **Resonado Labs** — Co-founded in college. Brought Korean speaker technology to **Airstream and Klipsch**.
+- **Flock Safety** — Senior PM, Audio. Tripled my business unit.
 
-## How I build
+I come from a family of entrepreneurs in Korea. I came to the US in middle school to become the bridge between their products and a bigger market. BARO is the company I've been working toward ever since.
 
-| Tool | What I use it for |
-|---|---|
-| **[Claude](https://claude.ai)** | Long-form reasoning, drafting, code review, second-brain work |
-| **[Cursor](https://cursor.com)** | Day-to-day editor + repo navigation; how most code actually ships |
-| **[Codex](https://openai.com/codex/)** | Fast implementation passes, refactors, and multi-file changes inside real repos |
-| **[Vercel](https://vercel.com)** | Hosting, previews, production deployments, and the “make it real on the internet” layer |
-| **[Supabase](https://supabase.com)** | Auth, Postgres, RLS-shaped backends when a managed data plane beats bespoke |
+## How I work
 
-Proof in public: [**claude-dash**](https://github.com/brianyoungilcho/claude-dash) was built end-to-end with this stack.
+I talk to customers, sell early, and build around what they actually need. I use coding agents every day, and I own what ships.
+
+[Notes on grounding LLM outputs](https://github.com/brianyoungilcho/technical-writing/blob/main/essays/grounding-llm-outputs.md) · [More writing](https://github.com/brianyoungilcho/technical-writing)
 
 ---
 
-## Things I think about a lot
-
-- **0→1 in regulated “boring” markets** — compliance, payments, tax, ops: the unglamorous places where moats quietly accrue  
-- **LLM grounding & evals** — making AI useful for narrow, high-stakes work (not demos); see [grounding with real data](https://github.com/brianyoungilcho/technical-writing/blob/main/essays/grounding-llm-outputs.md)  
-- **Hardware × software** — physical products with intelligent backends  
-- **Cross-border commerce** — what it actually takes for a brand built in one country to win in another  
-
----
-
-## Get in touch
-
-- 🌐 [heybaro.com](https://heybaro.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bcho)  
-- ✉️ brian@heybaro.com  
-
-If you’re a founder thinking about the US market, an investor looking at cross-border commerce, or someone building 0→1 in a serious space — say hi.
+Building with AI, working on consumer brands, or interested in BARO? [Say hello](mailto:brian@heybaro.com).
